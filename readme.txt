@@ -1,4 +1,4 @@
-UBC Software Construction Personal Project Demos
+UBC Software Construction Personal Project Weekly Demo:
 
 11. GUI/Visuals
 (referred to SmartHomeUI for tab creation)
