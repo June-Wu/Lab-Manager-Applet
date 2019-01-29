@@ -1,4 +1,4 @@
-#Laboratory Manager
+Laboratory Manager:
 
 Manage a list of labs and log lab activities. View details by clicking on lab entries in scroll panel.
 
