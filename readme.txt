@@ -1,3 +1,8 @@
+#Laboratory Manager
+
+Manage a list of labs and log lab activities. View details by clicking on lab entries in scroll panel.
+
+
 UBC Software Construction Personal Project Weekly Demo:
 
 11. GUI/Visuals
@@ -8,8 +13,7 @@ on the LabsTab, added scrollpane that displays available labs, and shows lab con
 on the LogTab, added scrollpane that displays lab activity (logged after a lab has been started and completed by clicking Start on LabsTab)
 
 10. Design Patterns and the Web
-retrieved data from CORE EVIDENCE journal with API, according to
-https://edge.edx.org/courses/course-v1:UBC+CPSC210+2018W1/jump_to_id/38dc1fe6e45a420ea1936b0165c6e58d
+retrieved data from CORE EVIDENCE journal with API
 
 9. Principled Code
 Refactored private methods for duplicated code
@@ -18,7 +22,7 @@ Refactored private methods for duplicated code
 Added material class and implemented/tested reflexive relationship with lab
 Delegated the implementation of handle-methods from LabAppManager(refactored name from LabAppHandlers) to LabHandlers
 
-7. added view and clear lab history functions to handler
+7. Added view and clear lab history functions 
 
 6. Robustness
 changed if-statements to exceptions
@@ -29,7 +33,6 @@ added tests for exception-catching of viewLabs
 Refactored Lab to abstract class, and added SafeLab and DangerousLab as subclasses
 Refactored handler methods into GeneralHandlers abstract class, with subclasses LabAppHandlers and LabSimulation
 Did not implement LabSimulations yet
-
 
 4. Types, interfaces and Saving
 added 2 interfaces: Loadable and Savable (referred to FileReaderWriter)
@@ -42,7 +45,7 @@ added more implementations (referred to FitnessGymKiosk for analyzeInput and han
 tested for Quit in LabAppHandlers
 tested for Lab and LabEntry constructors
 
-2. Basic Interaction:
+2. Basic Interaction
 (referred to LoggingCalculator's LogEntry for LabEntry)
 (referred to FrontDeskKiosk's Fitness Class for making lab entries)
 Make at least 1 package: ui
@@ -59,7 +62,7 @@ Draw the flowchart for a method with a condition or a loop
 Get user input, and reflect it back to the user
 Use the debugger
 
-1. Get Started:
+1. Get Started
 package
 class
 main (psvm)
