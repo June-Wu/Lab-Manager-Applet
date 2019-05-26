@@ -1,4 +1,4 @@
-##Laboratory Manager
+# Laboratory Manager
 
 In the Main Tab, you can
 - Load the lab entries that were previously saved
