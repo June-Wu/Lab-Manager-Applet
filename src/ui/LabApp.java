@@ -19,7 +19,7 @@ public class LabApp extends JFrame {
     }
 
     private LabApp() {
-        super("Lab App Console");
+        super("Lab Manager Applet");
         setSize(WIDTH, HEIGHT);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
